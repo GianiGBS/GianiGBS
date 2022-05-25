@@ -4,7 +4,7 @@ Hi 👋 My name is Giovanni GBS
 Developer iOS and Designer
 --------------------------
 
-I've been learning visual arts and design for 5 years, after switching careers. I started with HTML, but have really found a passion for iOS development...
+I've been learning visual arts and design for 5 years. After switching careers i started with HTML, but have really found a passion for iOS development...
 
 * 🌍  I'm based in Guadeloupe
 * 🖥️  See my portfolio at [My Website](http://www.behance.net/giovannigbs/)
